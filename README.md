@@ -15,3 +15,7 @@ Unity program I made for us to use in order to play the sounds for our phase 2 V
   - R: Plays relaxation noise
   - D: Plays depth watch noice
   - Spacebar: Plays attention grabbing noise
+  - B: Plays boat Sound (has delay at the beginning)
+  - V: Plays Budy Sound (has delay at the beginning)
+
+The heartbeat sound/ sound to know the device is on plays on it's own
